@@ -1,6 +1,6 @@
 
 
-This is a project implemented with a fully featured JSON Web Token Authentication system in Django and React. 
+This is a project implemented with a fully featured JSON Web based Authentication system in Django and React. 
 
 In order to test out this project, follow these steps:
 
